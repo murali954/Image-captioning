@@ -1,5 +1,4 @@
-# COCO Image Captioning Project Documentation
-
+# COCO Image Captioning Project
 ## Overview
 This project demonstrates image captioning using the COCO 2017 dataset. It provides tools to prepare the dataset, load images with their corresponding captions, and visualize samples for analysis or model development.
 
